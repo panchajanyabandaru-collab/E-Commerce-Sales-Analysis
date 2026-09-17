@@ -156,7 +156,9 @@ E-Commerce-Sales-Analysis/
 ├── excel/
 │   └── Business_Insights.xlsx
 ├── screenshots/
-│   └── dashboard.png
+│   ├── dashboard.png
+│   ├── sales_analysis.png
+│   └── customer_analysis.png
 └── README.md
 
 👨‍💻 Skills Demonstrated
