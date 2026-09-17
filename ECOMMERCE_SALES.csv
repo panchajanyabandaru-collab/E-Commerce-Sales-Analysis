@@ -1,0 +1,101 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Sales,Cost,Profit,City,Region,Payment_Method,Profit_Margin,Order_Month,Order_Year
+10031,07-Jan-26,C004,Sneha,Phone,Electronics,4,33000,132000,96900,35100,Pune,South,UPI,26.59%,January,2026
+10068,26-Feb-26,C008,Meena,Tablet,Electronics,4,27500,110000,90300,19700,Bangalore,West,Net Banking,17.91%,February,2026
+10063,06-Feb-26,C009,Rohit,Chair,Furniture,2,7700,15400,10400,5000,Chennai,South,UPI,32.47%,February,2026
+10048,06-Jan-26,C009,Rohit,Tablet,Electronics,4,25000,100000,86000,14000,Mumbai,South,UPI,14.00%,January,2026
+10043,15-Jan-26,C005,Vikram,Phone,Electronics,2,27000,54000,51000,3000,Mumbai,West,Debit Card,5.56%,January,2026
+10041,17-Jan-26,C009,Rohit,Monitor,Electronics,5,18000,90000,71250,18750,Hyderabad,West,Credit Card,20.83%,January,2026
+10091,05-Mar-26,C010,Divya,Headphones,Accessories,3,3000,9000,6600,2400,Chennai,South,Cash,26.67%,March,2026
+10046,26-Feb-26,C013,Aman,Tablet,Electronics,3,27500,82500,67725,14775,Pune,South,Net Banking,17.91%,February,2026
+10011,08-Jan-26,C015,Varun,Table,Furniture,2,15000,30000,21850,8150,Mumbai,West,Debit Card,27.17%,January,2026
+10001,01-Feb-26,C011,Suresh,Phone,Electronics,1,30000,30000,25500,4500,Pune,West,UPI,15.00%,February,2026
+10019,21-Jan-26,C010,Divya,Monitor,Electronics,2,19800,39600,28500,11100,Delhi,West,Net Banking,28.03%,January,2026
+10032,04-Mar-26,C015,Varun,Monitor,Electronics,2,18000,36000,30000,6000,Vijayawada,North,Cash,16.67%,March,2026
+10098,28-Jan-26,C012,Neha,Table,Furniture,2,15000,30000,23000,7000,Delhi,South,Net Banking,23.33%,January,2026
+10086,26-Mar-26,C013,Aman,Laptop,Electronics,3,60000,180000,145350,34650,Hyderabad,North,Net Banking,19.25%,March,2026
+10077,20-Feb-26,C015,Varun,Tablet,Electronics,5,27500,137500,102125,35375,Bangalore,South,UPI,25.73%,February,2026
+10005,12-Jan-26,C003,Rahul,Monitor,Electronics,3,18000,54000,42750,11250,Hyderabad,South,Debit Card,20.83%,January,2026
+10080,11-Mar-26,C005,Vikram,Phone,Electronics,4,27000,108000,102000,6000,Kolkata,South,Credit Card,5.56%,March,2026
+10034,20-Jan-26,C005,Vikram,Headphones,Accessories,5,3000,15000,11000,4000,Mumbai,East,Credit Card,26.67%,January,2026
+10013,18-Jan-26,C007,Kiran,Chair,Furniture,2,7000,14000,10400,3600,Kolkata,West,Net Banking,25.71%,January,2026
+10027,01-Feb-26,C004,Sneha,Table,Furniture,2,15000,30000,24150,5850,Pune,East,Credit Card,19.50%,February,2026
+10054,24-Mar-26,C005,Vikram,Phone,Electronics,3,33000,99000,80325,18675,Hyderabad,West,Net Banking,18.86%,March,2026
+10023,21-Feb-26,C015,Varun,Table,Furniture,2,15000,30000,24150,5850,Kolkata,West,Net Banking,19.50%,February,2026
+10069,03-Feb-26,C008,Meena,Tablet,Electronics,4,25000,100000,86000,14000,Delhi,East,Net Banking,14.00%,February,2026
+10045,05-Feb-26,C015,Varun,Laptop,Electronics,1,54000,54000,48450,5550,Mumbai,North,Debit Card,10.28%,February,2026
+10099,13-Jan-26,C013,Aman,Table,Furniture,5,15000,75000,57500,17500,Kolkata,West,Credit Card,23.33%,January,2026
+10016,09-Mar-26,C002,Priya,Headphones,Accessories,4,3000,12000,8360,3640,Pune,East,UPI,30.33%,March,2026
+10074,08-Feb-26,C007,Kiran,Chair,Furniture,1,7000,7000,5460,1540,Kolkata,West,Net Banking,22.00%,February,2026
+10040,21-Mar-26,C006,Ananya,Phone,Electronics,1,33000,33000,24225,8775,Vijayawada,East,UPI,26.59%,March,2026
+10010,21-Jan-26,C010,Divya,Tablet,Electronics,5,25000,125000,112875,12125,Vijayawada,South,Debit Card,9.70%,January,2026
+10085,14-Jan-26,C012,Neha,Monitor,Electronics,1,18000,18000,14250,3750,Vijayawada,South,Net Banking,20.83%,January,2026
+10012,14-Mar-26,C007,Kiran,Keyboard,Accessories,1,3000,3000,2200,800,Bangalore,South,Cash,26.67%,March,2026
+10072,23-Feb-26,C012,Neha,Tablet,Electronics,2,25000,50000,43000,7000,Pune,South,Net Banking,14.00%,February,2026
+10056,10-Feb-26,C002,Priya,Printer,Office Equipment,4,12000,48000,36100,11900,Delhi,West,Cash,24.79%,February,2026
+10029,13-Feb-26,C011,Suresh,Phone,Electronics,1,27000,27000,25500,1500,Bangalore,North,Credit Card,5.56%,February,2026
+10065,28-Feb-26,C004,Sneha,Chair,Furniture,5,7000,35000,26000,9000,Mumbai,South,Cash,25.71%,February,2026
+10006,06-Jan-26,C014,Pooja,Mouse,Accessories,5,1500,7500,4750,2750,Pune,West,Cash,36.67%,January,2026
+10079,13-Feb-26,C006,Ananya,Monitor,Electronics,4,18000,72000,60000,12000,Chennai,West,Cash,16.67%,February,2026
+10066,25-Mar-26,C008,Meena,Headphones,Accessories,2,2700,5400,4180,1220,Chennai,South,Cash,22.59%,March,2026
+10036,08-Jan-26,C008,Meena,Table,Furniture,5,16500,82500,54625,27875,Pune,South,Credit Card,33.79%,January,2026
+10017,15-Jan-26,C011,Suresh,Table,Furniture,3,15000,45000,36225,8775,Pune,West,Credit Card,19.50%,January,2026
+10092,05-Feb-26,C004,Sneha,Mouse,Accessories,3,1650,4950,3000,1950,Hyderabad,West,Net Banking,39.39%,February,2026
+10035,10-Feb-26,C001,Arjun,Printer,Office Equipment,5,10800,54000,45125,8875,Bangalore,South,Net Banking,16.44%,February,2026
+10008,30-Jan-26,C011,Unknown,Monitor,Electronics,3,16200,48600,47250,1350,Pune,South,Debit Card,2.78%,January,2026
+10044,27-Jan-26,C005,Vikram,Printer,Office Equipment,2,12000,24000,19950,4050,Vijayawada,West,Debit Card,16.88%,January,2026
+10073,23-Feb-26,C008,Meena,Headphones,Accessories,1,3000,3000,2090,910,Pune,South,Net Banking,30.33%,February,2026
+10028,24-Feb-26,C002,Priya,Phone,Electronics,4,30000,120000,107100,12900,Bangalore,West,UPI,10.75%,February,2026
+10020,16-Feb-26,C006,Ananya,Chair,Furniture,1,7000,7000,5200,1800,Hyderabad,South,UPI,25.71%,February,2026
+10084,09-Feb-26,C005,Vikram,Phone,Electronics,5,33000,165000,133875,31125,Bangalore,South,Cash,18.86%,February,2026
+10026,07-Mar-26,C002,Priya,Laptop,Electronics,3,60000,180000,153000,27000,Kolkata,South,Cash,15.00%,March,2026
+10078,24-Jan-26,C011,Suresh,Headphones,Accessories,2,2700,5400,4400,1000,Chennai,East,Cash,18.52%,January,2026
+10050,31-Jan-26,C015,Varun,Headphones,Accessories,5,3000,15000,11000,4000,Pune,South,Cash,26.67%,January,2026
+10014,29-Jan-26,C007,Kiran,Printer,Office Equipment,4,12000,48000,39900,8100,Vijayawada,West,UPI,16.88%,January,2026
+10025,01-Jan-26,C009,Rohit,Monitor,Electronics,5,16200,81000,71250,9750,Hyderabad,South,Credit Card,12.04%,January,2026
+10004,21-Jan-26,C008,Meena,Printer,Office Equipment,3,12000,36000,28500,7500,Chennai,South,Debit Card,20.83%,January,2026
+10018,06-Mar-26,C008,Meena,Laptop,Electronics,3,54000,162000,153000,9000,Mumbai,South,Net Banking,5.56%,March,2026
+10039,20-Feb-26,C004,Sneha,Mouse,Accessories,2,1500,3000,2000,1000,Pune,West,Unknown,33.33%,February,2026
+10009,15-Feb-26,C008,Meena,Mouse,Accessories,2,1500,3000,2000,1000,Hyderabad,West,UPI,33.33%,February,2026
+10081,01-Feb-26,C011,Suresh,Phone,Electronics,1,30000,30000,24225,5775,Pune,South,Net Banking,19.25%,February,2026
+10007,15-Mar-26,C002,Priya,Table,Furniture,3,15000,45000,32775,12225,Kolkata,West,UPI,27.17%,March,2026
+10067,07-Jan-26,C004,Sneha,Tablet,Electronics,5,27500,137500,107500,30000,Vijayawada,East,UPI,21.82%,January,2026
+10037,21-Feb-26,C002,Priya,Printer,Office Equipment,1,10800,10800,9500,1300,Mumbai,South,Net Banking,12.04%,February,2026
+10090,27-Feb-26,C014,Pooja,Monitor,Electronics,1,18000,18000,15750,2250,Mumbai,West,Net Banking,12.50%,February,2026
+10057,06-Jan-26,C015,Varun,Printer,Office Equipment,2,12000,24000,18050,5950,Delhi,West,Net Banking,24.79%,January,2026
+10096,12-Mar-26,C009,Rohit,Table,Furniture,3,15000,45000,34500,10500,Mumbai,North,Cash,23.33%,March,2026
+10055,23-Jan-26,C006,Ananya,Laptop,Electronics,1,66000,66000,51000,15000,Delhi,West,UPI,22.73%,January,2026
+10051,27-Mar-26,C001,Arjun,Tablet,Electronics,3,25000,75000,64500,10500,Kolkata,North,Credit Card,14.00%,March,2026
+10070,10-Jan-26,C008,Meena,Monitor,Electronics,3,18000,54000,45000,9000,Chennai,East,Debit Card,16.67%,January,2026
+10047,11-Mar-26,C001,Arjun,Phone,Electronics,1,27000,27000,25500,1500,Bangalore,South,Net Banking,5.56%,March,2026
+10071,18-Jan-26,C006,Ananya,Mouse,Accessories,5,1500,7500,5000,2500,Pune,South,Cash,33.33%,January,2026
+10062,01-Mar-26,C004,Sneha,Headphones,Accessories,5,3000,15000,11550,3450,Hyderabad,West,Credit Card,23.00%,March,2026
+10100,10-Mar-26,C006,Ananya,Tablet,Electronics,3,25000,75000,64500,10500,Kolkata,South,UPI,14.00%,March,2026
+10082,27-Mar-26,C003,Rahul,Monitor,Electronics,2,16200,32400,30000,2400,Kolkata,East,Cash,7.41%,March,2026
+10042,11-Mar-26,C006,Ananya,Keyboard,Accessories,2,3000,6000,4180,1820,Mumbai,East,Net Banking,30.33%,March,2026
+10059,27-Mar-26,C006,Ananya,Phone,Electronics,3,30000,90000,76500,13500,Vijayawada,West,Cash,15.00%,March,2026
+10049,27-Mar-26,C015,Varun,Mouse,Accessories,2,1350,2700,2000,700,Kolkata,South,Net Banking,25.93%,March,2026
+10089,25-Feb-26,C013,Aman,Table,Furniture,4,16500,66000,46000,20000,Pune,East,Debit Card,30.30%,February,2026
+10058,25-Feb-26,C015,Varun,Table,electronics,2,13500,27000,23000,4000,Pune,West,Net Banking,14.81%,February,2026
+10076,27-Mar-26,C008,Meena,Laptop,Electronics,4,60000,240000,204000,36000,Delhi,West,Cash,15.00%,March,2026
+10033,01-Jan-26,C015,Varun,Laptop,Electronics,2,60000,120000,102000,18000,Vijayawada,North,Cash,15.00%,January,2026
+10097,16-Jan-26,C005,Vikram,Keyboard,Accessories,3,3000,9000,6600,2400,Chennai,South,UPI,26.67%,January,2026
+10060,25-Jan-26,C012,Neha,Keyboard,Accessories,5,3000,15000,11550,3450,Vijayawada,South,Credit Card,23.00%,January,2026
+10064,26-Jan-26,C014,Pooja,Monitor,Electronics,3,18000,54000,42750,11250,Mumbai,South,UPI,20.83%,January,2026
+10095,26-Mar-26,C004,Sneha,Headphones,Accessories,2,3300,6600,4400,2200,Bangalore,West,Cash,33.33%,March,2026
+10038,23-Feb-26,C010,Divya,Laptop,Electronics,5,66000,330000,255000,75000,Chennai,South,Debit Card,22.73%,February,2026
+10030,24-Feb-26,C004,Sneha,Table,Furniture,4,15000,60000,46000,14000,Delhi,South,Cash,23.33%,February,2026
+10002,05-Jan-26,C011,Suresh,Table,Furniture,1,13500,13500,10925,2575,Vijayawada,North,Credit Card,19.07%,January,2026
+10053,04-Jan-26,C006,Ananya,Keyboard,Accessories,2,3000,6000,4620,1380,Chennai,South,Debit Card,23.00%,January,2026
+10022,03-Feb-26,C011,Suresh,Chair,Furniture,5,7700,38500,27300,11200,Hyderabad,South,Credit Card,29.09%,February,2026
+10003,13-Mar-26,C004,Sneha,Table,Furniture,5,15000,75000,60375,14625,Vijayawada,South,Credit Card,19.50%,March,2026
+10024,09-Jan-26,C008,Meena,Phone,Electronics,2,30000,60000,48450,11550,Delhi,South,Net Banking,19.25%,January,2026
+10088,23-Jan-26,C011,Suresh,Chair,Furniture,2,7700,15400,10400,5000,Kolkata,North,Net Banking,32.47%,January,2026
+10094,27-Feb-26,C013,Aman,Monitor,Electronics,4,16200,64800,57000,7800,Vijayawada,East,Debit Card,12.04%,February,2026
+10075,04-Mar-26,C012,Neha,Table,Furniture,5,15000,75000,57500,17500,Delhi,South,Cash,23.33%,March,2026
+10087,04-Mar-26,C011,Suresh,Mouse,Accessories,1,1350,1350,1050,300,Chennai,North,Debit Card,22.22%,March,2026
+10083,19-Mar-26,C012,Neha,Keyboard,Accessories,3,3300,9900,6270,3630,Bangalore,South,Credit Card,36.67%,March,2026
+10021,04-Mar-26,C004,Sneha,Printer,Office Equipment,1,10800,10800,9500,1300,Delhi,South,Credit Card,12.04%,March,2026
+10061,12-Mar-26,C010,Divya,Printer,Office Equipment,3,10800,32400,28500,3900,Chennai,North,Debit Card,12.04%,March,2026
+10015,22-Mar-26,C013,Aman,Laptop,Electronics,1,60000,60000,53550,6450,Bangalore,South,Net Banking,10.75%,March,2026
+10093,31-Jan-26,C001,Arjun,Table,Furniture,2,15000,30000,24150,5850,Hyderabad,South,Net Banking,19.50%,January,2026
+10052,02-Mar-26,C013,Aman,Phone,Electronics,4,30000,120000,102000,18000,Hyderabad,South,Cash,15.00%,March,2026
