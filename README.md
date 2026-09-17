@@ -100,7 +100,7 @@ Category, Region, and Month filters
 
 Dashboard Preview
 
-
+![E-Commerce Sales Dashboard](screenshots/dashboard.png)
 
 🧹 Data Preparation
 
